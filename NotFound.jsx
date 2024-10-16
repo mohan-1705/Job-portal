@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const NotFound = () => {
-  return (
+  return ( 
     <>
         <section className='page notfound'>
           <div className="content">
