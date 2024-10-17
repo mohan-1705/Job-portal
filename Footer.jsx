@@ -9,10 +9,6 @@ const Footer = () => {
   return (
     <footer className={isAuthorized ? "footerShow" : "footerHide"}>
       <div>&copy; All Rights Reserved.</div>
-      <div>
-       
-       
-      </div>
     </footer>
   );
 };
