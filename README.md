@@ -66,20 +66,14 @@ Edit
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/mohan-1705/Job-portal.git
 cd Job-portal
 2. Backend Setup
-bash
-Copy
-Edit
 cd backend
 npm install
 npm start
 3. Frontend Setup
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
